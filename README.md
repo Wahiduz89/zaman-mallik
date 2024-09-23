@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wahiduz Zaman
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning mysql
-- 📫  reach me at https://wahiduzzaman.info
+- 📫  reach me at zwahiduz89@gmail.com or https://wahiduzzaman.info
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
